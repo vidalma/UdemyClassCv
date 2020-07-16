@@ -1,0 +1,71 @@
+/*
+*/
+body{
+background-color: #f7feff;
+color: #343b4e;
+font-family: Arial, Helvetica, sans-serif;
+}
+img {
+  display: inline-block;
+}
+h1{
+  color: #5f31f1
+  ;
+}
+h2{
+  color: #4130f1;
+}
+h3{
+  color: #5f31f1;
+ margin: auto;
+}
+a{
+  line-height: 1.5em;
+  text-decoration: none;
+  color: #4130f1;
+  border-bottom: 5px solid #00d99e;
+}
+ul{
+  list-style: none;
+  color: #000;
+}
+.profileHeader{
+  width: 100%;
+  padding: 1%;
+}
+.profilePic{
+  width:33%;
+  display: inline;
+}
+.profilePic img {
+vertical-align: top;
+}
+.profileInfo{
+  display:inline-block;
+  padding-left: 2%;
+}
+.profileInfo h1{
+  vertical-align: top;
+  margin: auto;
+}
+.experience {
+
+}
+.experience p{
+  font-size: 14px;
+    background-color: #ecebf1;
+    margin: auto;
+}
+.experience ul {
+
+}
+.experience ul li{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  padding: 10px;
+
+}
+hr{
+  border-top: 5px dotted #ccc;
+    border-bottom: none;
+    width: 10%;
+}
